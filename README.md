@@ -2,7 +2,7 @@
     # project3333
 
 ## Description
-n/a
+this is the readme that was auto generated for the homework.
 
 ## Table of Contents (Optional)
 
